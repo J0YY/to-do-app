@@ -1,3 +1,5 @@
+# safari friendly and mobile friendly for once! go try it out :) this build is so simple but i guess it could be effective for collaboration projects where there are many tasks to be done by everyone. truthfully, i built it for practice so it's definitely not as polished as it could be.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
